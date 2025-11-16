@@ -58,7 +58,7 @@ p {
 .volta:hover {
   font-size: 18px;
   font-family: var(--title);
-  background-color: var(--azul-claro);
+  background-color: var(--azul-clarinho);
   color: var(--angelo);
   border: 2px solid var(--angelo);
   padding: 13px 23px;
